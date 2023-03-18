@@ -18,7 +18,7 @@ int main(void)
 	putchar(d);
 
 	for (low = 'a'; low <= 'f'; low++)
-	putcher(low);
+	putchar(low);
 	putchar('\n');
 
 	return (0);
