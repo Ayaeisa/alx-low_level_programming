@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * _strlen
+ * _strlen - mahmoud
  * @str: ok
  * Return: The length of @str
  */
